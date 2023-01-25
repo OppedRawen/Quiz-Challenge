@@ -14,4 +14,5 @@ event listeners, and timer interval.
 
 ![Screenshot 2023-01-24 220103](https://user-images.githubusercontent.com/95009568/214491795-0648e720-887c-47b9-a8e6-bad5629df278.png)
 
-
+#Deployed website link
+https://oppedrawen.github.io/Quiz-Challenge/
